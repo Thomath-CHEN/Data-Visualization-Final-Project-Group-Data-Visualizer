@@ -106,7 +106,7 @@ def Electricity_Source(path):
     
     # Author: Zeli_PAN
     
-    st.title("Welocome to Electricity Source")
+    st.title("Welcome to Electricity Source")
     
     # ==========
     
