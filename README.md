@@ -1,4 +1,4 @@
-# Data-Visualization-Final-Project-Group-Data-Visualizer
+# Data-Visualization-Final-Project-Group-Data-Visualizers
 
 
 ## Description
